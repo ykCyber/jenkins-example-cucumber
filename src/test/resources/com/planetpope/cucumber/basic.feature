@@ -5,4 +5,4 @@ Feature: basic math
     Given x=2
     And y=3
     When x and y are added
-    Then the result is 6
+    Then the result is 5
